@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Duda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" width="180em" walt="Duda-bb8" src="https://user-images.githubusercontent.com/79468559/127723275-43441c74-f10e-4e0b-a70b-53d9600e7106.gif" >
 </div>
   
   ##
@@ -20,10 +19,10 @@
   <a href="https://twitter.com/Mar1a_3duarda" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  	<a href="https://www.twitch.tv/eduarda__00" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/jgAY6jMFgA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <img src="https://komarev.com/ghpvc/?username=Eduarda-Donato&color=yellow" alt="Eduarda-Donato" /> 
+  
   
   
  
-  ![Snake animation](https://github.com/Eduarda-Donato/Eduarda-Donato/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
