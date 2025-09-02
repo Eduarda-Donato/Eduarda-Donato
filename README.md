@@ -2,8 +2,8 @@
 
 - ❤️ Apaixonada por Ciência de Dados + Machine Learning + Python
 - 🎓 Estudando Ciência da Computação na UFPB.
-- 💼 Trabalhando como Estagiária de TI na SEFAZ-PB.
-- 🌱 Aprendendo mais sobre BI e Cloud Computing.
+- 💼 Trabalhando como Estagiária de IA na B3.
+- 🌱 Aprendendo mais sobre Cloud Computing.
 
 ## **Linguagens e Ferramentas:**
 
@@ -20,9 +20,10 @@
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+ ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
- ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface)
 
 
 #### Estou aprendendo:
@@ -30,7 +31,6 @@
 ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
 
 
 <br/>
